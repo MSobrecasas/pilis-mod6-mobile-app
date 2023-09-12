@@ -1,0 +1,28 @@
+const user = [
+    {
+        "username": "user",
+        "password": "user",
+        "email": "user@gmail.com",
+        "image": "https://i.pinimg.com/originals/ca/55/7e/ca557ee5238148db7c5e3185b7d5e8d4.jpg",
+        "orders": [
+            {
+                "id": 100,
+                "status": true,
+                "date": " Dec 2 2023",
+                "amount": 1200
+            },
+            {
+                "id": 101,
+                "status": false,
+                "date": " Dec 23 2023",
+                "amount": 1200
+            },
+            {
+                "id": 102,
+                "status": true,
+                "date": " Dec 25 2023",
+                "amount": 1200
+            }
+        ]
+    }
+]
